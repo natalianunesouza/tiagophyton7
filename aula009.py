@@ -3,7 +3,7 @@ print (frase[2:15])
 
 
 frase = "curso em video  Python"
-print (frase[4:15:2])                  # o 4 é onde começa , o 15 é onde termina, e o 2 é pulando de 2 em 2 a partir do 4:
+print (frase[4:15:2])                  # o 4 é onde começa , o 15 é onde termina, ve o 2 é pulando de 2 em 2 a partir do 4:
 
 print ("oi")
 
